@@ -3,3 +3,8 @@ dia:17/10/2023
 Curso:JavaScript para Web: Crie páginas dinâmicas 
 Aula:conhecendo o JavaScript 
 assistindo  o vídeo 11: Buscar um elemento.
+
+dia:24/10/2023
+Curso:JavaScript para Web: Crie páginas dinâmicas
+Aula: funções 
+fazendo as atividades.
