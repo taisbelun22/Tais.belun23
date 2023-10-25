@@ -8,3 +8,8 @@ dia:24/10/2023
 Curso:JavaScript para Web: Crie páginas dinâmicas
 Aula: funções 
 fazendo as atividades.
+
+dia: 25/10/2023
+Curso:JavaScript para Web: Crie páginas dinâmicas 
+Aula: eventos e lógicas
+
