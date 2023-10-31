@@ -14,3 +14,7 @@ Curso:JavaScript para Web: Crie páginas dinâmicas
 Aula: eventos e lógicas
 assistindo vídeos e fazendo atividades.
 
+dia: 31/10/2023
+Curso: :JavaScript para Web: Crie páginas dinâmicas
+Aula: eventos e lógicas.
+assistindo vídeos e fazendo atividades.
